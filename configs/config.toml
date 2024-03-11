@@ -1,0 +1,5 @@
+bind_port = ":8080"
+route = "/sessions"
+secret_key = "pIWlfIeU84PGVKEfWBaUkTZO"
+
+database_url = "root:root@tcp(127.0.0.1:3306)/corona_security?multiStatements=true"
